@@ -1,6 +1,9 @@
+html{
+    scroll-behavior: smooth;
 body{
     margin: 0px;
     padding: 0px;
+    scroll-behavior: smooth;
     
 }
 .clr{
